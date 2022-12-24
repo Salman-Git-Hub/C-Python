@@ -1,3 +1,4 @@
 *.pyd
 .vscode
 build
+.python-version
